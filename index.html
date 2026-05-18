@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>E-Challan Generator</title>
+</head>
+
+<body>
+
+<h1>E-Challan Generator System</h1>
+
+<form action="/generate" method="POST" enctype="multipart/form-data">
+
+    <input type="file" name="image" required>
+
+    <select name="violation">
+
+        <option>Helmet Violation</option>
+        <option>Signal Jump</option>
+        <option>No Parking</option>
+        <option>Over Speeding</option>
+
+    </select>
+
+    <button type="submit">
+        Generate Challan
+    </button>
+
+</form>
+
+</body>
+</html>

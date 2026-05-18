@@ -1,0 +1,21 @@
+vehicle_no,violation_type,fine_amount,location,time
+PB10AB1234,Helmet Violation,1000,Ludhiana,10:30
+PB08XY5678,Signal Jump,2000,Amritsar,12:15
+PB11CD9876,No Parking,500,Jalandhar,14:00
+PB09EF1111,Over Speeding,1500,Patiala,16:45
+PB07GH2222,Triple Riding,1500,Bathinda,09:20
+PB13IJ3333,Wrong Parking,700,Mohali,11:45
+PB15KL4444,No Seat Belt,1000,Chandigarh,13:10
+PB20MN5555,Drunk Driving,5000,Ludhiana,22:30
+PB22OP6666,Red Light Jump,2000,Patiala,18:50
+PB18QR7777,Using Mobile While Driving,1500,Amritsar,15:40
+PB30ST8888,Overloading,2500,Jalandhar,17:25
+PB40UV9999,Helmet Violation,1000,Moga,08:55
+PB50WX1010,Signal Jump,2000,Hoshiarpur,19:15
+PB60YZ1111,Over Speeding,1500,Faridkot,20:05
+PB70AA1212,No Parking,500,Ropar,10:10
+PB80BB1313,Wrong Side Driving,3000,Muktsar,16:35
+PB90CC1414,Pollution Violation,1200,Ferozepur,12:50
+PB11DD1515,No Insurance,4000,Barnala,14:20
+PB22EE1616,Helmet Violation,1000,Sangrur,09:45
+PB33FF1717,Signal Jump,2000,Kapurthala,21:00
